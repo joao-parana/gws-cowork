@@ -1,4 +1,4 @@
-# Usandor o Google Workspace CLI dentro do Claude Cowork
+# Using Google Workspace CLI with Claude Cowork
 
 ## You don't need TCP/IP — MCP passthrough solves everything
 
